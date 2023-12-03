@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 17
+Premain-Class: io.github.lumine1909.agent.AgentMain

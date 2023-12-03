@@ -1,0 +1,12 @@
+name: InvTickTimings
+version: 1.1
+main: io.github.lumine1909.InvTickTimings
+load: STARTUP
+api-version: 1.19
+authors:
+  - Lumine_Ying
+commands:
+  invtimings:
+permissions:
+  invtimings.see:
+    default: op
